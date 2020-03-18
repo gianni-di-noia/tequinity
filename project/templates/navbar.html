@@ -1,0 +1,64 @@
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button
+        type="button"
+        class="navbar-toggle"
+        data-toggle="collapse"
+        data-target="#bs-example-navbar-collapse-1"
+      >
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a
+        class="navbar-brand"
+        data-toggle="tooltip"
+        data-placement="bottom"
+        href="/"
+        >{{ app }}</a
+      >
+    </div>
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <p class="navbar-text">
+          <a href="{{ url_for('main.index') }}" class="navbar-link">
+            Home
+          </a>
+        </p>
+      </ul>
+
+      <ul class="nav navbar-nav navbar-right">
+        {% if current_user.is_authenticated %}
+        <p class="navbar-text">
+          <a href="{{ url_for('main.upload') }}" class="navbar-link">
+            uplaod
+          </a>
+        </p>
+        {% endif %}
+        <!-- a -->
+        {% if not current_user.is_authenticated %}
+        <p class="navbar-text">
+          <a href="{{ url_for('auth.login') }}" class="navbar-link">
+            Login
+          </a>
+        </p>
+        <p class="navbar-text">
+          <a href="{{ url_for('auth.signup') }}" class="navbar-link">
+            Sign Up
+          </a>
+        </p>
+        {% endif %}
+        <!-- a -->
+        {% if current_user.is_authenticated %}
+        <p class="navbar-text">
+          <a href="{{ url_for('auth.logout') }}" class="navbar-link">
+            Logout
+          </a>
+        </p>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+</nav>

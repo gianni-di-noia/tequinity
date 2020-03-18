@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cdn-dinoia",
+  "private_key_id": "505c22038a4fe600713bec5adbb4f86b87dd2ae5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5h/cO6BwxvItY\nzCY/oljeoQx2MxB7IxdX2q7doFP0ZovwjxDqJGZxzw98XFksYh9ehBsXI65dKVRp\nYTE/rmNMyrdW3GoFl3SyZoAGn5ec1OveOuB++nClKAa6HrHjKrSWA/DqHdVB3HnW\nk3p1IUz0ZyqpArx7H4+Df767yDTsKQb93JxwSvDiT5IuJvY/CtTktWUOf1++m0+v\nRb3KHo4D+IEW4kRSk4nfFjceIPhGKBJErDxCZBIY+LVNLizG+mp3165aBxWpPQh9\ncopyVLeCx2lX/BXBIMTVEGA4gjibTccU0TB8vurjt4Uhw6Waq9SmP2WAzxCSFtsE\nPN+o0VxrAgMBAAECggEATuU3tVoU6z2PUDJ4LWU/P2Ti5LywTHzOp2hyJgLQ0MRu\ny9w6yCa0fb8cibjHnu0XA91Pm9ZrhmhV4f4XsEnbJkOqFUDjwP73/AlEdgyVr3aH\n2tfUsYqULldIDQuSf9SgOI7yesw27KvyD8JlN7vyepgIdxiXyA/SuouvMzFe9/F7\nq/xJLFunTznbL5+quTGuxSiHj/qdyWVNoTYdw00Nw0XXh8iyMujcKGBk2VrFZ0Ad\nlQii2B8nuLmHbzScPVoc8s7I4Q8T8dpND4m3jN6uRQcy+Ik9D6vHUqxf48DafGSS\neAwjx7xuEcwhykANQDXBpAjgSzQlw0JsEG00X08ioQKBgQD2acAYOuYyd7XJZ2DD\nuAbkcGaBxwS6Ri3i8Cl3M3E/UT/YNjmGxicANT1hXKtX6ECKUk0yXrpBAMbsSGPy\n7XuGjAlS2HATQ6iExjQeiWxFJmCaVjt2jcECL9Vb4SxE3FYEyKBE6mT3AiO8xZdC\nePoS0uaA5MhUq4KyMro8gtJgewKBgQDAv9YbBl0YVm+w5egGjlw+NsBKHCXapahc\nYb97DeIbZGps/Ue16zGVG1nuPP56rVkRybsqGzNuYngExmY77Qo1h17hjB4DdoaW\n7x02w6z58k9ifzz5Za+0ZzqbjEkGhQExsEPhn+OtepV3qw24Zrwqgl6OwgiB1VN4\nRvntJ2pI0QKBgHURiNH6KaOQfC1TkAVsSNn/DLRbeUOGVAadUxXuur76OvrdyDbf\nrWfL431+KWl6Ti9pKoPjvVlkpR1cxx+C9EzX+xYA/j4oxsdN4zUe1PGFah/pGBcb\nAbeoQhWExSNyCuv65SnYsl8oBRKKTXKnRyfqStix2PthAJbowtI81PZBAoGBAIpA\nTvL9YoLVZLFuhjlFnRYmsU+21tP4ZEU2+1/o+lgJc2iPVwM+GkdH4f5Gk4Uslyly\nF6RA9Gfliw5pu+SZxevVGBIRLWnwduMFyV+BhK2Wxqfweays6hUswdXWDn71oYCh\nXF8WDvlcZp75+xJb5fVbozUkKXPurjskNZmL3ukxAoGAEpnQZuNuQmto42vlhZan\nmT2iQqth7vYEDzDy44iy+5hZjvZahQQ8gJGk7BK496Iqlm6vSmG90r2cB9oIbd9N\nFNE6/FYitn4MREM6g8HQzWEiIwtkNqI9uOg5Kj1qQiG3XlLaTZ9c4+VSgOxgIWiZ\nqChQLnaWYkqLB2bDUzTK+Pg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tequinity@cdn-dinoia.iam.gserviceaccount.com",
+  "client_id": "101596704321038688579",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tequinity%40cdn-dinoia.iam.gserviceaccount.com"
+}
