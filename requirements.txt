@@ -13,61 +13,6 @@ Flask-uploads==0.2.1
 pylint-flask-sqlalchemy==0.2.0
 
 # Image Manipulation
-Pillow==7.0.0
+# Pillow==7.0.0
 google-cloud-vision==1.0.0
-gunicorn==20.0.4
-# Pillow==6.2.1
-
-# Flask Packages
-# Flask-Mail==0.9.1
-# Flask-Migrate==2.5.2
-# Flask-Script==2.0.6
-# Flask-User==1.0.1.5
-# Flask-WTF==0.14.2
-# Flask-RESTful==0.3.7
-# Flask-JWT-Extended==3.23.0
-# Flask-Cors==3.0.8
-
-# # Some dependencies
-# psycopg2-binary==2.8.3
-
-# # Tests
-# pytest==5.1.2
-# pytest-cov==2.7.1
-# freezegun==0.1.11
-
-# # Utils Packages
-# email-validator==1.0.4
-
-# # JSON validator
-# jsonschema==2.6.0
-
-# # Email Token Generator
-# itsdangerous==1.1.0
-
-# # API documentation
-# flasgger==0.9.3
-# # git+ssh://git@bitbucket.org/altagram_platform/platform-backend-model.git@1.0.0
-
-# # Redis communication
-# redis==3.3.11
-
-# # Role-Based Access Control
-# casbin==0.8.1
-
-# # Resquesting data from Synchronizer
-# requests==2.7.0
-
-# # Cloud Storage
-# boto3==1.10.16
-
-
-# # Logging
-# python-json-logger==0.1.11
-# google-cloud-logging==1.14.0
-
-# # This is to fix a bug regarding an update of this dependency for one of the flask packages
-# werkzeug==0.16.0
-
-# # doit tool for tasks runner
-# doit==0.30
+werkzeug == 0.16.1
