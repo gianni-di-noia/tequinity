@@ -4,7 +4,7 @@
 # Usage:       pip install -r requirements.txt
 
 # Flask Framework
-Flask==1.1.1
+Flask==2.3.2
 Flask-Login==0.4.1
 Flask-SQLAlchemy==2.4.1
 Flask-uploads==0.2.1
